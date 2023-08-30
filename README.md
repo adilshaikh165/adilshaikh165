@@ -1,7 +1,4 @@
-
-<img align="center" width=100% src="https://github.com/adilshaikh165/adilshaikh165/assets/98637502/d67e715c-17f1-4d4d-9271-87bddafd18fc">
-
-<h1 align="center">Hi 👋, I'm Adil Shaikh</h1>
+<h1 align="center">Hey 👋, If you are here then you already know me!</h1>
 <h3 align="center">Let's fix the deployment</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
